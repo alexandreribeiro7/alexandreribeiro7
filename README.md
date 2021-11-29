@@ -4,7 +4,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandreribeiro7&show_icons=true&theme=blue-black&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreribeiro7&layout=compact&langs_count=7&theme=blue-black"/>
 </div>
-  <img align="right" alt="ale-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/eb4ca982921bf1db0d9a8a639973f6cc.gif">
   
   #
  
