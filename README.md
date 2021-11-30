@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexandreribeiro7&repo=github-readme-stats)](https://github.com/alexandreribeiro7/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreribeiro7&layout=compact)](https://github.com/alexandreribeiro7/github-readme-stats)
 
 </div>
   
