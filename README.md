@@ -3,7 +3,7 @@
  # Hello, Devs!!
  
  <div align="left">
-Sou estudante de Engenharia de Software apaixonado por Programação. Atualmente aprendendo a Desenvolver Front-End e Back-End. Tenho projetos pessoais de clientes já desenvolvidos aqui em meu GitHub, dê uma olhada em meus repositorios disponíveis.<br><br>
+Sou estudante de Engenharia de Software apaixonado por programação. Atualmente aprendendo a desenvolver Front-End e Back-End. Tenho projetos pessoais de clientes já desenvolvidos aqui em meu GitHub, dê uma olhada em meus repositorios disponíveis.<br><br>
   </div>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreribeiro7&langs_count=8)](https://github.com/alexandreribeiro7/github-readme-stats)
